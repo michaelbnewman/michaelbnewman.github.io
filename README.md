@@ -5,9 +5,9 @@ About Mike Newman
 
 Affiliations:
 
-* Video Game Music Archive - Founder
+ * [Video Game Music Archive](https://www.vgmusic.com/) - Founder
  * Greater Hartford GNU Linux Users Group (GHGLUG) [Meetup] [Google+] - Co-Founder, Treasurer (2004-2010), President (2011-2012)
- * Woodard & Curran - Chemical Engineer
+ * [Woodard & Curran](https://www.woodardcurran.com/) - Chemical Engineer
  * Air & Waste Management Assocation (Connecticut Chapter) - Treasurer (2012)
  * American Institute of Chemical Engineers (Central New England Section)
  * Free Software Foundation - Associate Member
@@ -28,9 +28,10 @@ Education and Licenses:
  * Profesional Engineer, State of Connecticut - March 2008
 
 Social Networks:
-* Facebook
-* Twitter
-* LinkedIn
-* Disqus
-* Flickr
-* AlternativeTo - my favorite software
+
+ * Facebook
+ * Twitter
+ * LinkedIn
+ * Disqus
+ * Flickr
+ * AlternativeTo - my favorite software
