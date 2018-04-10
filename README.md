@@ -5,7 +5,7 @@
 | Name | Nickname | Food |
 | ---- | -------- | ---- |
 | Mike | Mikarino | Shoe |
-| Bob  | Bobby    | Chees |
+| Bob  | Bobby    | Cheese |
 
 Affiliations:
 
