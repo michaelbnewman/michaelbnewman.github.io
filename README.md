@@ -2,6 +2,11 @@
 
 ## About Mike Newman
 
+| Name | Nickname | Food |
+| ---- | -------- | ---- |
+| Mike | Mikarino | Shoe |
+| Bob  | Bobby    | Chees |
+
 Affiliations:
 
 * [Video Game Music Archive](https://www.vgmusic.com/) - Founder
